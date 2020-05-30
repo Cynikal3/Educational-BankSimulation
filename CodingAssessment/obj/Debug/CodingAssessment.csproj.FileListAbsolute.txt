@@ -1,0 +1,7 @@
+C:\Users\cynik\source\repos\CodingAssessment\CodingAssessment\obj\Debug\CodingAssessment.csprojAssemblyReference.cache
+C:\Users\cynik\source\repos\CodingAssessment\CodingAssessment\obj\Debug\CodingAssessment.csproj.CoreCompileInputs.cache
+C:\Users\cynik\source\repos\CodingAssessment\CodingAssessment\bin\Debug\CodingAssessment.exe.config
+C:\Users\cynik\source\repos\CodingAssessment\CodingAssessment\bin\Debug\CodingAssessment.exe
+C:\Users\cynik\source\repos\CodingAssessment\CodingAssessment\bin\Debug\CodingAssessment.pdb
+C:\Users\cynik\source\repos\CodingAssessment\CodingAssessment\obj\Debug\CodingAssessment.exe
+C:\Users\cynik\source\repos\CodingAssessment\CodingAssessment\obj\Debug\CodingAssessment.pdb
